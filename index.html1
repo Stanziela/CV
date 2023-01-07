@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>❤️ Stanley's site</title>
+</head>
+<body>
+    <table cellspacing="20">
+    <tr>
+        <td>
+            <img src="stanle.png" width="200" height="200" alt="Stanley image">
+            </td>
+    <td>
+        <h1>STANLEY CHIGOZIE OKPALA</h1>
+    <p><em>Founder and CEO of <strong><a href="https://www.facebook.com/profile.php?id=100088868410183">Elite Graphics</a></strong>.</em></p>
+    <p>I am a graduate of Nnamdi Azikiwe University and also a web developer</p>
+    </td>
+    </tr>
+    </table>
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <h3>Primary</h3>
+        <li>Ogbor-Hill Primary School,Aba 2004-2010</li>
+        <h3>Secondary</h3>
+        <li>St. Dominic Catholic School 2010-2011</li>
+       <li>Living Stone Internaltional Christain Academy 2012-2016</li>
+       <h3>University</h3>
+       <li>
+           <a href="University images.html">Nnamdi Azikiwe University 2017-2021</a></li>
+    </ul> <hr>
+    <h3>Working Experience</h3>
+    <table border="2" cellspacing="10">
+        <thead>
+            <tr>
+                <td><strong>Place of Work</strong></td>
+                <td><strong>Year</strong></td>
+            </tr>
+        </thead>
+        
+         <tr>
+            <td>Cashier at Bet9ja</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>House keeper at Evergreen Hotel</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>Staff at Livestocks Feed Plc</td>
+            <td>2021</td>
+        </tr>
+    </table>
+    <hr>
+    <h3> Skills</h3>
+    <Table cellspacing="10">
+        <tr>
+            <td>Graphic Designs</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td> Video Creation</td>
+            <td>⭐⭐⭐⭐⭐</td>
+         </tr>
+         <tr>
+            <td>Photography</td>
+            <td>⭐⭐⭐⭐⭐</td>
+         </tr>
+         <tr>
+             <td>Coding</td> 
+             <td>⭐⭐⭐</td>
+         </tr>
+    </Table>
+    <hr>
+    <h3>My Hobbies</h3>
+    <ol>
+        <li>Reading</li>
+        <li>Football</li>
+        <li>Computer games</li>
+        <li>Riding</li>
+    </ol>
+    <p></a><center><a href="Contact Me.html">Contact Me</a> <br> <a href="https://www.facebook.com/profile.php?id=100084711023805">Facebook Profile</a></center>
+ </body>
+</html>
